@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Klas, I'm currently studying Front-End development at Jensen in Stockholm.<br>
 Please check out a couple of sites I've made:<br><br>
-klasnasman.netlify.com<br>
-klasnasmanv2.netlify.com<br>
-klasnasman-react.netlify.com<br>
+https://klasnasman.netlify.com<br>
+https://klasnasmanv2.netlify.com<br>
+https://klasnasman-react.netlify.com<br>
 https://klasnasman-astro.netlify.app
 
 
