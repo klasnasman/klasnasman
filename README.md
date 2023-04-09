@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Klas, I'm currently studying Front-End development at Jensen in Stockholm.
-Please check out a couple of sites I've made:
+Please check out a couple of sites I've made:<br>
 klasnasman.netlify.com
 klasnasmanv2.netlify.com
 klasnasman-react.netlify.com
