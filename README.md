@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Klas, I'm currently studying Front-End development at Jensen in Stockholm.
+Please check out a couple of sites I've made:
+klasnasman.netlify.com
+klasnasmanv2.netlify.com
+klasnasman-react.netlify.com
+klasnasman-astro.netlify.com
+
 
 <!--
 **klasnasman/klasnasman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
