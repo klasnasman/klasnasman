@@ -4,7 +4,7 @@ Please check out a couple of sites I've made:<br><br>
 klasnasman.netlify.com<br>
 klasnasmanv2.netlify.com<br>
 klasnasman-react.netlify.com<br>
-klasnasman-astro.netlify.com
+https://klasnasman-astro.netlify.app
 
 
 <!--
