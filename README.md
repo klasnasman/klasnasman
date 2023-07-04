@@ -1,6 +1,5 @@
-### Hi there 👋
-My name is Klas, I'm currently studying Front-End development at Jensen in Stockholm.
-
+### Hello 👋
+My name is Klas, an aspiring front end developer.
 
 
 
