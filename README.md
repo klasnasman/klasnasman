@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Klas, an aspiring front end developer.
+My name is Klas, an aspiring front-end developer.
 
 
 
