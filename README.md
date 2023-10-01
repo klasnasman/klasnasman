@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Klas, an aspiring front-end developer.
+I'm Klas, an enthusiastic and aspiring front-end developer who also loves to design. I'm currently pursuing my studies in Stockholm, Sweden.
 
 
 
