@@ -1,5 +1,6 @@
 ### Hello 👋
-I'm Klas, an enthusiastic and aspiring front-end developer who also loves to design. I'm currently pursuing my studies in Stockholm, Sweden.
+I'm Klas, an enthusiastic and aspiring front-end developer who also loves to design. 
+I'm currently pursuing my studies in Stockholm, Sweden.
 
 
 
